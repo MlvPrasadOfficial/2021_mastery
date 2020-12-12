@@ -1,1 +1,1 @@
-# finally i learned git
+#2021 is the year ai for me
