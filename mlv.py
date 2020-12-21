@@ -7,4 +7,4 @@ class Mlv :
     def mlv :
         print("mlv")
     def munna :
-        print("ml")
+        print("nitesh")
